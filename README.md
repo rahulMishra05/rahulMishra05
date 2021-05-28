@@ -8,3 +8,6 @@
 - 🌠 Fun Fact: My mind goes like this 🤯 whenever I learn something unexpected 😅.
 
 <p align="center"><a href='https://rahul-mishra.netlify.app/'>Click To Check My Portfolio Website</p>
+
+
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulMishra05&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
