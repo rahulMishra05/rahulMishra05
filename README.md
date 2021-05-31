@@ -12,4 +12,6 @@
 
 [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulMishra05&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Rahul's github activity graph](https://activity-graph.herokuapp.com/graph?username=rahulMishra05&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Commented the contribution grapg, as it was taking too much space -->
+
+<!-- [![Rahul's github activity graph](https://activity-graph.herokuapp.com/graph?username=rahulMishra05&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
