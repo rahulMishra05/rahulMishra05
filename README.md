@@ -10,14 +10,15 @@
 <p align="center"><a href='https://rahul-mishra.netlify.app/'>Click To Check My Portfolio Website</p>
 
 
-<!-- Github contribuiton stats -->
+<!-- Github contribution and top languages stats -->
 
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulMishra05&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulMishra05&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulMishra05" />
+</a>
 
-
-<!-- Github top languages stats -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulMishra05)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
