@@ -1,6 +1,6 @@
 # Hi there, I'm Rahul Mishra 👋
 
-### I'm an Engineering Student, Tech Blogger and Cybersecurity Enthusiast !!
+## I'm an Engineering Student, Tech Blogger and Cybersecurity Enthusiast !!
 
 - 🔭 I'm working as an **Research Intern at IIT Kharagpur**, and the topic of our research is <u>*Semantic Segmentation for Autonomous Driving*</u>
 - 💡 I'm currently leaning and exploring the cyber security world 🤓.
@@ -19,7 +19,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulMishra05&langs_count=6" />
 </a>
 
-### 📝 Latest blog posts
+## 📝 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
