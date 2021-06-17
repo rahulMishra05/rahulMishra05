@@ -3,6 +3,7 @@
 ## I'm an Engineering Student, Tech Blogger and Cybersecurity Enthusiast !!
 
 - 🔭 I'm working as an **Research Intern at IIT Kharagpur**, and the topic of our research is <u>*Semantic Segmentation for Autonomous Driving*</u>
+-  💻  I am also working as **Cyber Security Intern** at Gurugram Ploice Cyber Cell, in summer internship program *(GPCSSI - 2021)*.
 - 💡 I'm currently leaning and exploring the cyber security world 🤓.
 - 📍 2021 Goals: Gain some experience in bug bounty 👨‍💻.
 - 🌠 Fun Fact: My mind goes like this 🤯 whenever I learn something unexpected 😅.
